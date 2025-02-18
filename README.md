@@ -8,6 +8,19 @@ Este é um MPV desenvolvido para gerenciamento interno de uma padaria, permitind
 - Gerenciamento de pedidos: criação, cancelamento e acompanhamento do status dos pedidos dos clientes.
 - Gerenciamento de estoque: consultar itens (estqoque fixo) e editar quantidade e/ou preço do produto.
 
-### Tecnologias:
-- Backend:
-   
+### Tecnologias Utilizadas
+Para o desenvolvimento Back-End utilizaremos as seguintes ferramentas:
+- NestJS 
+- Typescript 
+- Prisma (ORM)
+
+Para o desenvolvimento Front-End utilizaremos as seguintes ferramentas;
+- ReactJS 
+- Javascript
+- Material UI 
+
+### Ferramentas 
+- IDE Visual Studio Code
+- Postman (documentação e testes de API)
+- MySQL Workbench
+
